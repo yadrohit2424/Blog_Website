@@ -1,0 +1,55 @@
+[
+  {
+    "id": "dbef96cf-01f9-4e9d-87d2-1741c252aeb1",
+    "title": "Welcome to Our Blog",
+    "content": "This is the first post of our amazing blog. We'll be sharing interesting articles about technology, design, and more!",
+    "excerpt": "Welcome to our blog where we share insights about technology and design.",
+    "author": "Admin",
+    "category": "General",
+    "tags": [
+      "welcome",
+      "blog"
+    ],
+    "image": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=800&h=400&fit=crop",
+    "createdAt": "2025-08-06T19:53:13.503Z",
+    "updatedAt": "2025-08-06T19:53:13.505Z",
+    "readTime": 2,
+    "views": 2
+  },
+  {
+    "id": "515b7b89-143e-4ae7-abcb-4ee09d86210b",
+    "title": "The Future of Web Development",
+    "content": "Web development is evolving rapidly with new technologies like React, Vue, and modern CSS frameworks. The future looks bright for developers who stay updated with the latest trends.",
+    "excerpt": "Exploring the latest trends and technologies shaping the future of web development.",
+    "author": "Tech Writer",
+    "category": "Technology",
+    "tags": [
+      "web-development",
+      "react",
+      "future"
+    ],
+    "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&h=400&fit=crop",
+    "createdAt": "2025-08-05T19:53:13.505Z",
+    "updatedAt": "2025-08-05T19:53:13.505Z",
+    "readTime": 5,
+    "views": 2
+  },
+  {
+    "id": "7747f978-04c3-4bb9-b3dc-61bee03b5d69",
+    "title": "Design Principles for Modern Websites",
+    "content": "Good design is crucial for user experience. We'll explore key design principles that make websites both beautiful and functional.",
+    "excerpt": "Learn the essential design principles that create engaging and user-friendly websites.",
+    "author": "Design Expert",
+    "category": "Design",
+    "tags": [
+      "design",
+      "ux",
+      "ui"
+    ],
+    "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=800&h=400&fit=crop",
+    "createdAt": "2025-08-04T19:53:13.505Z",
+    "updatedAt": "2025-08-04T19:53:13.505Z",
+    "readTime": 4,
+    "views": 0
+  }
+]
